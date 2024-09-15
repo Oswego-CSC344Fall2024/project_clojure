@@ -1,4 +1,4 @@
-# Clojure Main Project
+# Clojure Project
 
 In this project you will write a Clojure program to recursively convert logical expressions made up of the and, or, and not connectives to expressions using only the nor connective, then symbolically simplify the resulting expression.
 
